@@ -348,7 +348,7 @@ nav {
 .edu-box p {
   font-weight: 600;
   font-size: 0.9rem;
-  color: var(--accent-light);
+  color: var(--accent-dark);
   margin-bottom: 3px;
 }
 
